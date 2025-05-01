@@ -4,7 +4,8 @@ extends:
   - ../csf.yml
 project:
   id: c30725bb-8f6e-4206-9637-cd098b21c374
-  title: Continuous Science
+  title: Defining Continuous Science
+  subtitle: Core concepts and definitions behind continuous science
   description: |
     Core concepts and definitions behind continuous science — a modern approach to research that emphasizes
     iteration, integration, reuse, and automation across the full research lifecycle.
