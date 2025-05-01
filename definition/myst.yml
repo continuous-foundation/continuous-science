@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c30725bb-8f6e-4206-9637-cd098b21c374
+  title: Continuous Science
+  description: Research and thoughts on defining continuous science
+  # keywords: []
+  # authors: []
+  # github:
+  references:
+    tw: https://book.the-turing-way.org
+    idr: https://cn-testing.curve.space/articles/cn-testing-idr-images
+site:
+  template: book-theme
