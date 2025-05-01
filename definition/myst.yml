@@ -18,7 +18,7 @@ project:
     - rowan
     - steve
     - name: Your Name Here Please
-      affiliation: Help define this Continuous Science with us
+      affiliation: Help define Continuous Science with us
   github: https://github.com/continuous-foundation/continuous-science
   references:
     tw: https://book.the-turing-way.org
