@@ -1,14 +1,24 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+extends:
+  - ../csf.yml
 project:
   id: c30725bb-8f6e-4206-9637-cd098b21c374
   title: Continuous Science
-  description: Research and thoughts on defining continuous science
-  # keywords: []
-  # authors: []
-  # github:
+  description: |
+    Core concepts and definitions behind continuous science — a modern approach to research that emphasizes
+    iteration, integration, reuse, and automation across the full research lifecycle.
+    This evolving glossary defines key terms that support more open, connected, and reproducible scientific communication.
+  keywords:
+    - Open Science
+    - Research Communication
+    - Scientific Publishing
+  authors:
+    - rowan
+    - steve
+    - name: Your Name Here Please
+      affiliation: Help define this Continuous Science with us
+  github: https://github.com/continuous-foundation/continuous-science
   references:
     tw: https://book.the-turing-way.org
     idr: https://cn-testing.curve.space/articles/cn-testing-idr-images
-site:
-  template: book-theme
